@@ -75,7 +75,7 @@ const NavBar = () => {
                             </li>
                             <li className="max-lg:border-b border-gray-300 max-lg:py-3 px-3">
                                 <Link
-                                    href="javascript:void(0)"
+                                    href="/dashboard"
                                     className="hover:text-[#007bff] text-[#007bff] block font-semibold text-[15px]"
                                 >
                                     Dashboard
